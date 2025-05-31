@@ -5,7 +5,7 @@
 - 🦅 Falo Inglês avançado ...
 - LinkedIn: https://www.linkedin.com/in/diego-rodrigues-9a6172299/ ...
 
-Meu nome é Diego, tenho 21 anos e estou iniciando minha carreira na área de TI. Sou técnico em Desenvolvimento de Sistemas e, atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul. Sou natural de São Bernardo do Campo – SP e possuo inglês em nível avançado.
+Meu nome é Diego, tenho 21 anos e estou iniciando minha carreira na área de TI. Sou técnico em Desenvolvimento de Sistemas, possuo inglês em nível avançado, atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul. Sou natural de São Bernardo do Campo – SP.
 ---
 
 ### 🤖 Linguagens e Tecnologias
