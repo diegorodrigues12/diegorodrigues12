@@ -105,7 +105,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diegorodrigues12&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&include_all_stars=true" 
+    src="https://github-readme-stats.vercel.app/api?username=diegorodrigues12&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&include_all_stars=true&include_all_prs=true" 
 />
 <img 
     align="left" 
