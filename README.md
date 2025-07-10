@@ -1,5 +1,5 @@
 ## Olá meu nome é Diego!🦁
-- LinkedIn: https://www.linkedin.com/in/diego-rodrigues-9a6172299/ ...
+- LinkedIn: https://www.linkedin.com/in/diegorodriguesoli/ ...
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -105,7 +105,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diegorodrigues12&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&include_all_stars=true" 
+    src="https://github-readme-stats.vercel.app/api?username=diegorodrigues12&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&include_all_stars=true&cache_seconds=1" 
 />
 
 <img 
