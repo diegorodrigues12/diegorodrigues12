@@ -1,5 +1,5 @@
 ## Olá meu nome é Diego!🦁
-- LinkedIn: https://www.linkedin.com/in/diegorodriguesoli/ ...
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegorodriguesoli)
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -112,6 +112,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorodrigues12&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
