@@ -1,6 +1,6 @@
 ## Olá meu nome é Diego!🦁
-- <p align="center"> <a href="www.linkedin.com/in/diegorodriguesoli/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn" title="LinkedIn - Diego Rodrigues de Oliveira" /> </a> </p>
-📧 E-mail: diegorodriguesoli9@gmail.com
+- <p align="center"> <a href="https://www.linkedin.com/in/diegorodriguesoli" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn" title="LinkedIn - Diego Rodrigues de Oliveira" /> </a> </p>
+📧 E-mail: diegorodriguesoli9@mgial.com
 ---
 
 ### 🤖 Linguagens e Tecnologias
